@@ -3,9 +3,10 @@ PeerJS wraps the browser's WebRTC implementation to provide a complete, configur
 
 <h1> Peer.js </h1>
 This is my project for university  
-It has all js (#peerjs library)
+It has all js (peerjs library)
 
 
 ### PeerJS simplifies peer-to-peer data, video, and audio calls.
-
-This guide will show you the basic concepts of the PeerJS API.
+ 
+ 
+ > https://peerjs.com/docs.html#start
