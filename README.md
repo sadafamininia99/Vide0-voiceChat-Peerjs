@@ -6,6 +6,6 @@ This is my project for university
 It has all js (#peerjs library)
 
 
-###PeerJS simplifies peer-to-peer data, video, and audio calls.
+### PeerJS simplifies peer-to-peer data, video, and audio calls.
 
 This guide will show you the basic concepts of the PeerJS API.
